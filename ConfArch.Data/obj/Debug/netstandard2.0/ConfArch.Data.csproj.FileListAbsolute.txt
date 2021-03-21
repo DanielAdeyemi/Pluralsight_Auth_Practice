@@ -1,0 +1,9 @@
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/bin/Debug/netstandard2.0/ConfArch.Data.deps.json
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/bin/Debug/netstandard2.0/ConfArch.Data.dll
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/bin/Debug/netstandard2.0/ConfArch.Data.pdb
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/obj/Debug/netstandard2.0/ConfArch.Data.csprojAssemblyReference.cache
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/obj/Debug/netstandard2.0/ConfArch.Data.AssemblyInfoInputs.cache
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/obj/Debug/netstandard2.0/ConfArch.Data.AssemblyInfo.cs
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/obj/Debug/netstandard2.0/ConfArch.Data.csproj.CoreCompileInputs.cache
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/obj/Debug/netstandard2.0/ConfArch.Data.dll
+/Users/daniel/Downloads/authentication-authorization-aspnet-core/02/demos/m2demos/ConfArchCookieAuth/ConfArch.Data/obj/Debug/netstandard2.0/ConfArch.Data.pdb
